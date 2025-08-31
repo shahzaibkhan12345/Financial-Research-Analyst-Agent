@@ -2,9 +2,9 @@
 
 This project is a Streamlit web application that leverages a multi-agent system built with **CrewAI** to automate the process of financial research and blog post creation. Users can enter a topic, and a team of AI agents will research it and write a comprehensive article.
 
-![Demo](https://user-images.githubusercontent.com/12345/your-demo-image.gif) <!-- TODO: Replace with a GIF of the app in action -->
 
-## ✨ Features
+## ✨Architecture <img width="560" height="484" alt="Capture" src="https://github.com/user-attachments/assets/857b45b0-1096-468b-8ec3-ae9f3909a06c" />
+
 
 - **Automated Research**: A dedicated AI agent scours the web for the latest information on any given topic.
 - **Content Generation**: A specialized AI writer crafts an engaging and structured blog post based on the gathered research.
